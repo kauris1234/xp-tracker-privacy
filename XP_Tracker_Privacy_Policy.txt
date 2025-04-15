@@ -1,0 +1,35 @@
+
+Privacy Policy for XP Tracker
+
+Effective Date: April 15, 2025
+
+XP Tracker is a fitness progress tracker app developed to help users build healthy workout habits. This privacy policy explains how we handle your data.
+
+1. Information We Collect
+We collect the following information:
+- Account credentials (email + password for login, stored securely)
+- Workout logs, XP, level, and streak progress
+- No personal health data, location, or contact info is collected
+
+2. How We Use Information
+We use your data solely to:
+- Track your workout progress and award XP
+- Maintain login functionality
+- Display your current level and streak
+
+3. Data Sharing
+We do not share your personal data with any third parties.
+
+4. Data Storage
+Data is stored securely and only used within the app. XP Tracker does not collect or transmit sensitive data to any external server.
+
+5. Your Rights
+You can delete your app data at any time by removing the app. Future versions may include manual reset/delete functions.
+
+6. Contact
+For questions or support, contact: kaurizzkask@gmail.com
+
+7. Changes
+This policy may be updated as the app evolves. Changes will be reflected here.
+
+XP Tracker respects your privacy and values your trust.
